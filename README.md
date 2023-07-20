@@ -1,1 +1,2 @@
 # Get Badges
+Get Badges es un proyecto enfocado en brindar reconocimiento de los diferentes conocimientos y certificaciones que va obteniendo un profesional en desarrollo para la adquisición de habilidades que permitirán su ingreso o mejora en el sector laboral. Siendo esta una plataforma que respalda cada una de las actividades elbaoradas ya sea en empresas, organizaciones, bootcamps, entre otros.
